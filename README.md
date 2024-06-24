@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiv Patel</h1>
-<h3 align="center">A passionate Windows Software and DevOps Engineer</h3>
+<h3 align="center">A passionate Software and DevOps Engineer</h3>
 
 - 💬 Ask me about **DevOps Tools, Automation, Windows Drivers.**
 
